@@ -1,7 +1,7 @@
 {
     "name": "Library Book Checkout",
     "description": "Members can borrow books from the library.",
-    "author": "Daniel Reis",
+    "author": "Daniel  Reis",
     "license": "AGPL-3",
     "depends": ["library_member", "mail"],
     "data": [
