@@ -3,8 +3,7 @@
     "summary": "Manage library catalog and book lending.",
     "author": "Daniel Reis",
     "license": "AGPL-3",
-    "website": "https://github.com/PacktPublishing"
-               "/Odoo-15-Development-Essentials",
+    "website": "https://www.odoo.com",
     "version": "15.0.1.0.0",
     "category": "Services/Library",
     "depends": ["base"],
